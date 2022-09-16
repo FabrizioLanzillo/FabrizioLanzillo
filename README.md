@@ -9,7 +9,7 @@ University Project for "Performance Evaluation of Computer Systems and Networks"
 
 - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&&color=darkred) **Cybersecurity-Project-of-Cloud-Storage**.  
 University Project for "Foundations of Cybersecurity" course (2022).  
-*Design* of a **Client-Server application** that resembles a **Cloud Storage**.  
+*Design* of a **Secure Client-Server application** that resembles a **Cloud Storage**.  
 *Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*
 
