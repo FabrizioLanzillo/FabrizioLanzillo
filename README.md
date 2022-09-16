@@ -16,7 +16,7 @@ University Project for "Foundations of Cybersecurity" course (2022).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="20px"/> **ECG-Estimation-using-Different-Artificial-Intelligences**.  
 University project for the Intelligent Systems course (2022).  
 *Design* and *Implementation* of **several artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals.  
-*Developed* with MATLAB (2022a version).
+*Developed* with MATLAB (2022a version).  
 *[Project Repository](https://github.com/FabrizioLanzillo/ECG-Estimation-using-Different-Artificial-Intelligences)*
 
 ## BSc Computer Engineering Projects
