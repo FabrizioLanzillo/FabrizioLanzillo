@@ -13,6 +13,12 @@ University Project for "Foundations of Cybersecurity" course (2022).
 *Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*
 
+- **Gameflows-Videogame-Social-Network**.  
+University Project for the Large-Scale and Multi-Structured Databases course (2022)
+*Design* of a **large-scale and multi-structured database** for a social networking application
+*Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.
+*[Project Repository](https://github.com/FabrizioLanzillo/gameflows-videogame-social-network)*
+
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="20px"/> **ECG-Estimation-using-Different-Artificial-Intelligences**.  
 University project for the Intelligent Systems course (2022).  
 *Design* and *Implementation* of **several artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals.  
