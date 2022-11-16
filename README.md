@@ -13,7 +13,7 @@ University Project for "Foundations of Cybersecurity" course (2022).
 *Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*
 
-- **Gameflows-Videogame-Social-Network**.  
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) **Gameflows-Videogame-Social-Network**.  
 University Project for the Large-Scale and Multi-Structured Databases course (2022)  
 *Design* of a **large-scale and multi-structured database** for a social networking application  
 *Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
