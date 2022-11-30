@@ -17,7 +17,7 @@ University Project for "Foundations of Cybersecurity" course (2022).
 University Project for the Large-Scale and Multi-Structured Databases course (2022)  
 *Design* of a **large-scale and multi-structured database** for a social networking application  
 *Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
-*[Project Repository](https://github.com/FabrizioLanzillo/gameflows-videogame-social-network)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="20px"/> **ECG-Estimation-using-Different-Artificial-Intelligences**.  
 University project for the Intelligent Systems course (2022).  
@@ -36,5 +36,5 @@ University Project for "Computer Networks" course (2021).
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) **MyBalance**.  
 University Project for "Advanced Programming" course (2021).  
 *Design* of a **Client-Server application** that resembles a Digital Wallet.  
-*Developed* in **Java* and **JavaFX**.  
+*Developed* in **Java** and **JavaFX**.  
 *[Project Repository](https://github.com/FabrizioLanzillo/MyBalance)*
