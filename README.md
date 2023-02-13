@@ -15,7 +15,7 @@ University Project for "Foundations of Cybersecurity" course (2022).
 
 - ![CUDA C](https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ** Parallelized-AES-Brute-Force-Attack-with-Cuda**.  
 University Project for "Computer Architecture" course (2023).  
-*Development* and *Analysis* of the **Parallelization** of a *Brute Force Attack* on **AES-256** key 
+*Development* and *Analysis* of the **Parallelization** of a *Brute Force Attack* on **AES-256** key.  
 *Developed* in **CUDA-C** and in **C++14**.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Parallelized-AES-Brute-Force-Attack-with-Cuda)*
 
