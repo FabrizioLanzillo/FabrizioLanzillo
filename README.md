@@ -13,6 +13,12 @@ University Project for "Foundations of Cybersecurity" course (2022).
 *Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*
 
+- ![CUDA C](https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ** Parallelized-AES-Brute-Force-Attack-with-Cuda**.  
+University Project for "Computer Architecture" course (2023).  
+*Development* and *Analysis* of the **Parallelization** of a *Brute Force Attack* on **AES-256** key 
+*Developed* in **CUDA-C** and in **C++14**.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Parallelized-AES-Brute-Force-Attack-with-Cuda)*
+
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) **Gameflows-Videogame-Social-Network**.  
 University Project for the Large-Scale and Multi-Structured Databases course (2022)  
 *Design* of a **large-scale and multi-structured database** for a social networking application  
