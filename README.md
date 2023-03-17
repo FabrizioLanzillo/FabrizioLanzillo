@@ -19,6 +19,12 @@ University Project for "Computer Architecture" course (2023).
 *Developed* in **CUDA-C** and in **C++14**.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Parallelized-AES-Brute-Force-Attack-with-Cuda)*
 
+- ![Python](https://img.shields.io/badge/-Python-497CAB?logo=Python&logoColor=fee77e&style=flat-square) **Pipelined-Application-for-Secure-POS-Monitoring-System**.  
+University Project for "Software System Engineering Project" course (2023).  
+*Development* of a **Pipelined Application** for **Secure POS Monitoring System** based on DataOps approach, to support productivity metrics.  
+*Developed* in **Python**.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Pipelined-Application-for-Secure-POS-Monitoring-System)*
+
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) **Gameflows-Videogame-Social-Network**.  
 University Project for the Large-Scale and Multi-Structured Databases course (2022)  
 *Design* of a **large-scale and multi-structured database** for a social networking application  
