@@ -9,8 +9,9 @@ University Project for "Foundations of Cybersecurity" course (2022).
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Glassfish](https://img.shields.io/badge/Glassfish-%23ED8B00.svg?style=flat-square&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square) ![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white&style=flat-square)
 **Distributed-University-Chatroom-Platform**.  
 University project for "Distributed Systems and Middleware Technologies" course (2023).  
-*Design* and *implementation* of a **Distributed University Chatroom Platform**.  
-Developed in **Java 11** using **Glassfish** and in **Erlang**.  
+*Design* and *implementation* of a **Jakarta EE web application**, which allows **university students** to **chat** with other students and **book meetings** with professors.  
+The *web* part is implemented using **Java 11** with **Jakarta EE 9.1 framework** and is deployed on a **Glassfish server**.  
+The *chat* is developed in **Erlang** and is deployed on a **distributed cluster** with a **NGINX** reverse proxy / load balancer.   
 *[Project Repository](https://github.com/FabrizioLanzillo/Distributed-University-Chatroom-Platform)*
 
 - ![CUDA C](https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) **Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C**.  
