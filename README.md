@@ -27,14 +27,20 @@ University Project for "Software System Engineering Project" course (2023).
 *[Project Repository](https://github.com/FabrizioLanzillo/Pipelined-Application-for-Secure-POS-Monitoring-System)*
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="20px"/> **ECG-Estimation-using-Different-Artificial-Intelligences**.  
-University project for the Intelligent Systems course (2022).  
+University project for the "Intelligent Systems" course (2022).  
 *Design* and *Implementation* of **several artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals.  
 *Developed* with MATLAB (2022a version).  
 *[Project Repository](https://github.com/FabrizioLanzillo/ECG-Estimation-using-Different-Artificial-Intelligences)*
 
+- ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Google ARCore](https://img.shields.io/badge/-Google%20ARCore-4285F4?logo=Google&logoColor=white&style=flat-square) **Navigation-Assistance-Platform-for-Blind-People (VIBA)**.  
+University project for "Mobile and Social Sensing Systems" course (2023).  
+*Design* of a **Android Application** aimed at assisting visually impaired and blind (VIB) people in everyday life by **detecting obstacles** in an **outdoor** environment.  
+*Developed* in Kotlin and in Java with Google's ARCore Depth Lab API.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Navigation-Assistance-Platform-for-Blind-People)*
+
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) **Gameflows-Videogame-Social-Network**.  
-University Project for the Large-Scale and Multi-Structured Databases course (2022)  
-*Design* of a **large-scale and multi-structured database** for a social networking application  
+University Project for the "Large-Scale and Multi-Structured Databases" course (2022).  
+*Design* of a **large-scale and multi-structured database** for a social networking application.  
 *Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*
 
