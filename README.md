@@ -1,65 +1,166 @@
-## MSc Computer Engineering Projects
+# MSc Computer Engineering Projects
 
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&&color=darkred) **Cybersecurity-Project-of-Cloud-Storage**.  
+<style>
+  li {
+    list-style-type: circle; /* Tipo di bullet point: cerchio */
+  }
+</style>
+
+<!-- Cybersecurity-Project-of-Cloud-Storage -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        Cybersecurity-Project-of-Cloud-Storage
+    </p>
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/openssl/openssl-official.svg" alt="image" width="115" height="35" style="margin: 0 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
+</div>
+
 University Project for "Foundations of Cybersecurity" course (2022).  
 *Design* of a **Secure Client-Server application** that resembles a **Cloud Storage**.  
 *Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*  
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Glassfish](https://img.shields.io/badge/Glassfish-%23ED8B00.svg?style=flat-square&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square) ![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white&style=flat-square)
-**Distributed-University-Chatroom-Platform**.  
+<!-- Distributed-University-Chatroom-Platform -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        Distributed-University-Chatroom-Platform
+    </p>
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40" style="margin: 0 5px;">
+    <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" alt="image" width="100" height="40" style="margin: 0 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain-wordmark.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=round" alt="image" width="115" height="35" style="margin: 0 10px;">
+</div>
+
 University project for "Distributed Systems and Middleware Technologies" course (2023).  
 *Design* and *implementation* of a **Jakarta EE web application**, which allows **university students** to **chat** with other students and **book meetings** with professors.  
 The *web* part is implemented using **Java 11** with **Jakarta EE 9.1 framework** and is deployed on a **Glassfish server**.  
-The *chat* is developed in **Erlang** and is deployed on a **distributed cluster** with a **NGINX** reverse proxy / load balancer.   
-*[Project Repository](https://github.com/FabrizioLanzillo/Distributed-University-Chatroom-Platform)*
+The *chat* is developed in **Erlang** and is deployed on a **distributed cluster** with a **NGINX** reverse proxy / load balancer.          
+*[Project Repository](https://github.com/FabrizioLanzillo/Distributed-University-Chatroom-Platform)*  
 
-- ![CUDA C](https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) **Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C**.  
+<!-- Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C
+    </p>
+    <img src="https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=round" alt="image" width="115" height="35" style="margin: 0 10px;">
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40" style="margin: 0 5px;">
+</div>
+
 University Project for "Computer Architecture" course (2023).  
 *Development* and *Analysis* of the **Parallelization** of a *Brute Force Attack* on **AES-256** key.  
 *Developed* in **CUDA-C** and in **C++14**.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Parallelized-AES-Brute-Force-Attack-with-Cuda)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Parallelized-AES-Brute-Force-Attack-with-Cuda)*   
 
-- ![Python](https://img.shields.io/badge/-Python-497CAB?logo=Python&logoColor=fee77e&style=flat-square) **Pipelined-Application-for-Secure-POS-Monitoring-System**.  
+<!-- Pipelined-Application-for-Secure-POS-Monitoring-System -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        Pipelined-Application-for-Secure-POS-Monitoring-System
+    </p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=round" alt="image" width="115" height="35" style="margin: 0 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
+</div>
+
 University Project for "Software System Engineering Project" course (2023).  
 *Development* of a **Pipelined Application** for **Secure POS Monitoring System** based on DataOps approach, to support productivity metrics.  
 *Developed* in **Python**.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Pipelined-Application-for-Secure-POS-Monitoring-System)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Pipelined-Application-for-Secure-POS-Monitoring-System)*   
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="20px"/> **ECG-Estimation-using-Different-Artificial-Intelligences**.  
+<!-- ECG-Estimation-using-Different-Artificial-Intelligences -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        ECG-Estimation-using-Different-Artificial-Intelligences
+    </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="image" width="40" height="38" style="margin: 0 10px;">
+</div>
+
 University project for the "Intelligent Systems" course (2022).  
 *Design* and *Implementation* of **several artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals.  
 *Developed* with MATLAB (2022a version).  
-*[Project Repository](https://github.com/FabrizioLanzillo/ECG-Estimation-using-Different-Artificial-Intelligences)*
+*[Project Repository](https://github.com/FabrizioLanzillo/ECG-Estimation-using-Different-Artificial-Intelligences)*   
 
-- ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Google ARCore](https://img.shields.io/badge/-Google%20ARCore-4285F4?logo=Google&logoColor=white&style=flat-square) **Navigation-Assistance-Platform-for-Blind-People (VIBA)**.  
+<!-- Navigation-Assistance-Platform-for-Blind-People (VIBA) -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        Navigation-Assistance-Platform-for-Blind-People (VIBA)
+    </p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="image" width="40" height="38" style="margin: 0 4px;">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40" style="margin: 0 3px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="image" width="50" height="50" style="margin: 0 7px;">
+</div>
+
 University project for "Mobile and Social Sensing Systems" course (2023).  
 *Design* of a **Android Application** aimed at assisting visually impaired and blind (VIB) people in everyday life by **detecting obstacles** in an **outdoor** environment.  
 *Developed* in Kotlin and in Java with Google's ARCore Depth Lab API.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Navigation-Assistance-Platform-for-Blind-People)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Navigation-Assistance-Platform-for-Blind-People)*   
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) **Gameflows-Videogame-Social-Network**.  
+<!-- Gameflows-Videogame-Social-Network -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        Gameflows-Videogame-Social-Network
+    </p>
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="image" width="100" height="50" style="margin: 0;">
+    <img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" alt="image" width="100" height="40" style="margin: 0 10px;">
+</div>
+
 University Project for the "Large-Scale and Multi-Structured Databases" course (2022).  
 *Design* of a **large-scale and multi-structured database** for a social networking application.  
 *Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*  
 
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) **Performance-Evaluation-of-Supermarket-Simulator**.  
+
+<!-- Performance-Evaluation-of-Supermarket-Simulator -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        Performance-Evaluation-of-Supermarket-Simulator
+    </p>
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-OMNeT++-4d83a1?logoColor=white&style=round" alt="image" width="115" height="35" style="margin: 0 5px;">
+</div>
+  
 University Project for "Performance Evaluation of Computer Systems and Networks" course (2022).  
 *Design* of a **discrete event simulator** that emulates the behavior of a supermarket (considered as a **queuing system**).   
 *Performance evaluation* of the system using different configurations and through different experiments.  
 *Developed* in **C++** with the **OMNet++** framework.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)*    
 
-## BSc Computer Engineering Projects
+# BSc Computer Engineering Projects
 
-- ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&&color=darkred) **Distributed-Peer-to-Peer-Application-for-Covid19-Data-Sharing**.  
+<!-- Distributed-Peer-to-Peer-Application-for-Covid19-Data-Sharing -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        Distributed-Peer-to-Peer-Application-for-Covid19-Data-Sharing
+    </p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="40" height="40" style="margin: 0 5px;">
+</div>
+  
 University Project for "Computer Networks" course (2021).  
 *Design* of **distributed peer-to-peer application** that implements a data sharing system, constantly updated, on the COVID-19 pandemic.  
 *Developed* in *C* for **Linux Systems**.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Distributed-Peer-to-Peer-Application-for-Covid19-Data-Sharing)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Distributed-Peer-to-Peer-Application-for-Covid19-Data-Sharing)*   
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) **MyBalance**.  
+<!-- MyBalance -->
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
+        MyBalance
+    </p>
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40" style="margin: 0 10px;">
+</div>
+
 University Project for "Advanced Programming" course (2021).  
 *Design* of a **Client-Server application** that resembles a Digital Wallet.  
 *Developed* in **Java** and **JavaFX**.  
