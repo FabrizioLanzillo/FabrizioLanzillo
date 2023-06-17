@@ -1,21 +1,9 @@
 # MSc Computer Engineering Projects
 
-<style>
-  li {
-    list-style-type: circle; /* Tipo di bullet point: cerchio */
-  }
-</style>
-
 <!-- Cybersecurity-Project-of-Cloud-Storage -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        Cybersecurity-Project-of-Cloud-Storage
-    </p>
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40" style="margin: 0 10px;">
-    <img src="https://www.vectorlogo.zone/logos/openssl/openssl-official.svg" alt="image" width="115" height="35" style="margin: 0 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
-</div>
+|<font size="4em">**Cybersecurity-Project-of-Cloud-Storage**</font>|<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40">|<img src="https://www.vectorlogo.zone/logos/openssl/openssl-official.svg" alt="image" width="115" height="35">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="40" height="40">|
+|---|---|---|---|
 
 University Project for "Foundations of Cybersecurity" course (2022).  
 *Design* of a **Secure Client-Server application** that resembles a **Cloud Storage**.  
@@ -24,15 +12,8 @@ University Project for "Foundations of Cybersecurity" course (2022).
 
 <!-- Distributed-University-Chatroom-Platform -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        Distributed-University-Chatroom-Platform
-    </p>
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40" style="margin: 0 5px;">
-    <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" alt="image" width="100" height="40" style="margin: 0 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain-wordmark.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=round" alt="image" width="115" height="35" style="margin: 0 10px;">
-</div>
+|<font size="4em">**Distributed-University-Chatroom-Platform**</font>|<img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40">|<img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" alt="image" width="100" height="40">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain-wordmark.svg" alt="image" width="40" height="40">|<img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=round" alt="image" width="115" height="35">|
+|---|---|---|---|---|
 
 University project for "Distributed Systems and Middleware Technologies" course (2023).  
 *Design* and *implementation* of a **Jakarta EE web application**, which allows **university students** to **chat** with other students and **book meetings** with professors.  
@@ -42,13 +23,8 @@ The *chat* is developed in **Erlang** and is deployed on a **distributed cluster
 
 <!-- Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C
-    </p>
-    <img src="https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=round" alt="image" width="115" height="35" style="margin: 0 10px;">
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40" style="margin: 0 5px;">
-</div>
+|<font size="4em">**Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C**</font>|<img src="https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=round" alt="image" width="115" height="35">|<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40">|
+|---|---|---|
 
 University Project for "Computer Architecture" course (2023).  
 *Development* and *Analysis* of the **Parallelization** of a *Brute Force Attack* on **AES-256** key.  
@@ -57,14 +33,8 @@ University Project for "Computer Architecture" course (2023).
 
 <!-- Pipelined-Application-for-Secure-POS-Monitoring-System -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        Pipelined-Application-for-Secure-POS-Monitoring-System
-    </p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=round" alt="image" width="115" height="35" style="margin: 0 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
-</div>
+|<font size="4em">**Pipelined-Application-for-Secure-POS-Monitoring-System**</font>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="40" height="40">|<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=round" alt="image" width="115" height="35">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="image" width="40" height="40">|
+|---|---|---|---|
 
 University Project for "Software System Engineering Project" course (2023).  
 *Development* of a **Pipelined Application** for **Secure POS Monitoring System** based on DataOps approach, to support productivity metrics.  
@@ -73,12 +43,8 @@ University Project for "Software System Engineering Project" course (2023).
 
 <!-- ECG-Estimation-using-Different-Artificial-Intelligences -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        ECG-Estimation-using-Different-Artificial-Intelligences
-    </p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="image" width="40" height="38" style="margin: 0 10px;">
-</div>
+|<font size="4em">**ECG-Estimation-using-Different-Artificial-Intelligences**</font>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="image" width="40" height="38">|
+|---|---|
 
 University project for the "Intelligent Systems" course (2022).  
 *Design* and *Implementation* of **several artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals.  
@@ -87,15 +53,8 @@ University project for the "Intelligent Systems" course (2022).
 
 <!-- Navigation-Assistance-Platform-for-Blind-People (VIBA) -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        Navigation-Assistance-Platform-for-Blind-People (VIBA)
-    </p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="image" width="40" height="38" style="margin: 0 4px;">
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40" style="margin: 0 3px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="image" width="50" height="50" style="margin: 0 7px;">
-</div>
+|<font size="4em">**Navigation-Assistance-Platform-for-Blind-People (VIBA)**</font>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="image" width="40" height="40">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="image" width="40" height="38">|<img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="image" width="50" height="50">|
+|---|---|---|---|---|
 
 University project for "Mobile and Social Sensing Systems" course (2023).  
 *Design* of a **Android Application** aimed at assisting visually impaired and blind (VIB) people in everyday life by **detecting obstacles** in an **outdoor** environment.  
@@ -104,48 +63,33 @@ University project for "Mobile and Social Sensing Systems" course (2023).
 
 <!-- Gameflows-Videogame-Social-Network -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        Gameflows-Videogame-Social-Network
-    </p>
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40" style="margin: 0 10px;">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="image" width="100" height="50" style="margin: 0;">
-    <img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" alt="image" width="100" height="40" style="margin: 0 10px;">
-</div>
+|<font size="4em">**Gameflows-Videogame-Social-Network**</font>|<img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40">|<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="image" width="100" height="50">|<img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" alt="image" width="100" height="40">|
+|---|---|---|---|
 
 University Project for the "Large-Scale and Multi-Structured Databases" course (2022).  
 *Design* of a **large-scale and multi-structured database** for a social networking application.  
 *Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*  
 
-
 <!-- Performance-Evaluation-of-Supermarket-Simulator -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        Performance-Evaluation-of-Supermarket-Simulator
-    </p>
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-OMNeT++-4d83a1?logoColor=white&style=round" alt="image" width="115" height="35" style="margin: 0 5px;">
-</div>
-  
+|<font size="4em">**Performance-Evaluation-of-Supermarket-Simulator**</font>|<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="36" height="40">|<img src="https://img.shields.io/badge/-OMNeT++-4d83a1?logoColor=white&style=round" alt="image" width="115" height="35">|
+|---|---|---|
+
 University Project for "Performance Evaluation of Computer Systems and Networks" course (2022).  
 *Design* of a **discrete event simulator** that emulates the behavior of a supermarket (considered as a **queuing system**).   
 *Performance evaluation* of the system using different configurations and through different experiments.  
 *Developed* in **C++** with the **OMNet++** framework.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)*    
 
+<br>
+
 # BSc Computer Engineering Projects
 
 <!-- Distributed-Peer-to-Peer-Application-for-Covid19-Data-Sharing -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        Distributed-Peer-to-Peer-Application-for-Covid19-Data-Sharing
-    </p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="image" width="40" height="40" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="40" height="40" style="margin: 0 5px;">
-</div>
+|<font size="4em">**Distributed-Peer-to-Peer-Application-for-Covid19-Data-Sharing**</font>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="image" width="40" height="40">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="40" height="40">|
+|---|---|---|
   
 University Project for "Computer Networks" course (2021).  
 *Design* of **distributed peer-to-peer application** that implements a data sharing system, constantly updated, on the COVID-19 pandemic.  
@@ -154,12 +98,8 @@ University Project for "Computer Networks" course (2021).
 
 <!-- MyBalance -->
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 10px 0; font-weight: bold; font-size: 1.2em;">
-        MyBalance
-    </p>
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40" style="margin: 0 10px;">
-</div>
+|<font size="4em">**MyBalance**</font>|<img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="100" height="40">|
+|---|---|
 
 University Project for "Advanced Programming" course (2021).  
 *Design* of a **Client-Server application** that resembles a Digital Wallet.  
