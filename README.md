@@ -1,18 +1,5 @@
 # MSc Computer Engineering Projects
 
-<!-- Cybersecurity-Project-of-Cloud-Storage -->
-## Cybersecurity-Project-of-Cloud-Storage
-<span align="left">
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="30" height="30">
-    <img src="https://www.vectorlogo.zone/logos/openssl/openssl-official.svg" alt="image" width="115" height="30">
-</span>
-
-University Project for "Foundations of Cybersecurity" course (2022).  
-*Design* of a **Secure Client-Server application** that resembles a **Cloud Storage**.  
-*Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*
-
 <!-- Distributed-University-Chatroom-Platform -->
 ## Distributed-University-Chatroom-Platform
 <span align="left">
@@ -26,7 +13,7 @@ University project for "Distributed Systems and Middleware Technologies" course 
 *Design* and *implementation* of a **Jakarta EE web application**, which allows **university students** to **chat** with other students and **book meetings** with professors.  
 The *web* part is implemented using **Java 11** with **Jakarta EE 9.1 framework** and is deployed on a **Glassfish server**.  
 The *chat* is developed in **Erlang** and is deployed on a **distributed cluster** with a **NGINX** reverse proxy / load balancer.          
-*[Project Repository](https://github.com/FabrizioLanzillo/Distributed-University-Chatroom-Platform)*
+*[Project Repository](https://github.com/FabrizioLanzillo/Distributed-University-Chatroom-Platform)*    
 
 <!-- Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C -->
 ## Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C
@@ -61,8 +48,48 @@ University Project for "Software System Engineering Project" course (2023).
 
 University project for the "Intelligent Systems" course (2022).  
 *Design* and *Implementation* of **several artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals.  
-*Developed* with MATLAB (2022a version).  
+*Developed* with **MATLAB** (2022a version).  
 *[Project Repository](https://github.com/FabrizioLanzillo/ECG-Estimation-using-Different-Artificial-Intelligences)*   
+
+<!-- K-Means-Clustering-Algorithm-using-Hadoop-MapReduce -->
+## K-Means-Clustering-Algorithm-using-Hadoop-MapReduce
+<span align="left">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="80" height="30">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="image" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="30" height="30">
+</span>
+
+University project for "Cloud Computing" course (2023).  
+*Design* and *Analysis* of a **K-means clustering** algorithm, using **Hadoop MapReduce Parallelization**.   
+*Developed* in **Java 11** with **Hadoop 3.1.3 Framework**.   
+*Deployed* on a cluster of virtual machines, one namenode and two datanodes.       
+*[Project Repository](https://github.com/FabrizioLanzillo/K-Means-Clustering-Algorithm-using-Hadoop-MapReduce)*    
+
+<!-- Cybersecurity-Project-of-Cloud-Storage -->
+## Cybersecurity-Project-of-Cloud-Storage
+<span align="left">
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="30" height="30">
+    <img src="https://www.vectorlogo.zone/logos/openssl/openssl-official.svg" alt="image" width="115" height="30">
+</span>
+
+University Project for "Foundations of Cybersecurity" course (2022).  
+*Design* of a **Secure Client-Server application** that resembles a **Cloud Storage**.  
+*Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*
+
+<!-- Gameflows-Videogame-Social-Network -->
+## Gameflows-Videogame-Social-Network
+<span align="left">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="85" height="35">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="image" width="70" height="35">
+    <img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" alt="image" width="80" height="35">
+</span>
+
+University Project for the "Large-Scale and Multi-Structured Databases" course (2022).  
+*Design* of a **large-scale and multi-structured database** for a social networking application.  
+*Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*   
 
 <!-- Navigation-Assistance-Platform-for-Blind-People (VIBA) -->
 ## Navigation-Assistance-Platform-for-Blind-People (VIBA)
@@ -77,19 +104,6 @@ University project for "Mobile and Social Sensing Systems" course (2023).
 *Design* of a **Android Application** aimed at assisting visually impaired and blind (VIB) people in everyday life by **detecting obstacles** in an **outdoor** environment.  
 *Developed* in Kotlin and in Java with Google's ARCore Depth Lab API.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Navigation-Assistance-Platform-for-Blind-People)*   
-
-<!-- Gameflows-Videogame-Social-Network -->
-## Gameflows-Videogame-Social-Network
-<span align="left">
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="85" height="35">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="image" width="70" height="35">
-    <img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" alt="image" width="80" height="35">
-</span>
-
-University Project for the "Large-Scale and Multi-Structured Databases" course (2022).  
-*Design* of a **large-scale and multi-structured database** for a social networking application.  
-*Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*   
 
 <!-- Performance-Evaluation-of-Supermarket-Simulator -->   
 ## Performance-Evaluation-of-Supermarket-Simulator
