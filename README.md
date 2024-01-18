@@ -15,6 +15,25 @@ The *web* part is implemented using **Java 11** with **Jakarta EE 9.1 framework*
 The *chat* is developed in **Erlang** and is deployed on a **distributed cluster** with a **NGINX** reverse proxy / load balancer.          
 *[Project Repository](https://github.com/FabrizioLanzillo/Distributed-University-Chatroom-Platform)*    
 
+<!-- Secure-Book-Selling-Website -->
+## Secure-Book-Selling-Website
+<span align="left">
+    <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="image" width="65" height="35">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="image" width="50" height="35">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="image" width="85" height="35">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="image" width="60" height="45">
+    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="image" width="90" height="45">
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="image" width="90" height="45">
+
+</span>
+
+University project for "Systems and Network Hacking" course (2024).  
+*Design* and *implementation* of **BookSelling**, a Web Project that aims to simulate a **Secure E-Commerce Website**.  
+The website uses **SSL/TLS certificates** to ensure **secure communication** in an **encrypted connection**.  
+*Developed* using **PHP 8** and **Javascript** with **MySQL** database.   
+*Deployed* using **Docker Compose** with three containers: **Apache Server**, **MySQL**, and **phpMyAdmin**.         
+*[Project Repository](https://github.com/FabrizioLanzillo/Secure-Book-Selling-Website)*
+
 <!-- Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C -->
 ## Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C
 <span align="left">
