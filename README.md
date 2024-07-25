@@ -110,32 +110,47 @@ University Project for the "Large-Scale and Multi-Structured Databases" course (
 *Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*   
 
-<!-- Navigation-Assistance-Platform-for-Blind-People (VIBA) -->
-## Navigation-Assistance-Platform-for-Blind-People (VIBA)
-<span align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="image" width="30" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="image" width="30" height="28">
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="80" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="image" width="35" height="30">
-</span>
-
-University project for "Mobile and Social Sensing Systems" course (2023).  
-*Design* of a **Android Application** aimed at assisting visually impaired and blind (VIB) people in everyday life by **detecting obstacles** in an **outdoor** environment.  
-*Developed* in Kotlin and in Java with Google's ARCore Depth Lab API.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Navigation-Assistance-Platform-for-Blind-People)*   
-
 <!-- Performance-Evaluation-of-Supermarket-Simulator -->   
 ## Performance-Evaluation-of-Supermarket-Simulator
 <span align="left">
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
     <img src="https://img.shields.io/badge/-OMNeT++-4d83a1?logoColor=white&style=round" alt="image" width="95" height="30">
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
 </span>
 
 University Project for "Performance Evaluation of Computer Systems and Networks" course (2022).  
 *Design* of a **discrete event simulator** that emulates the behavior of a supermarket (considered as a **queuing system**).   
 *Performance evaluation* of the system using different configurations and through different experiments.  
 *Developed* in **C++** with the **OMNet++** framework.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)*    
+*[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)*  
+
+<!-- Image-Elaboration-fo-Coefficient-Calculator -->   
+## Image-Elaboration-fo-Coefficient-Calculator
+<span align="left">
+    <img src="https://img.shields.io/badge/VHDL-%23D22128.svg?style=rounde" alt="image" width="60" height="30">
+    <img src="https://img.shields.io/badge/ModelSim-4479A1?style=round" alt="image" width="85" height="30">
+    <img src="https://img.shields.io/badge/Vivado-%e4e796.svg?style=round" alt="image" width="75" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="30" height="30">
+</span>
+
+University Project for "Electronics and Communication Systems" course (2024).  
+*Design* of a **digital circuit** for implementing an **image elaboration systems fo calculator**.   
+*Testbench Analysis* of the digital system behaviour using **Modelsim**.  
+*Synthesis and Implementation* of the circuit using **Vivado**.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)* 
+
+<!-- Navigation-Assistance-Platform-for-Blind-People (VIBA) -->
+## Navigation-Assistance-Platform-for-Blind-People (VIBA)
+<span align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="image" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="image" width="30" height="28">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="image" width="80" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gradle/gradle-original.svg" alt="image" width="35" height="30">
+</span>
+
+University project for "Mobile and Social Sensing Systems" course (2023).  
+*Design* of a **Android Application** aimed at assisting visually impaired and blind (VIB) people in everyday life by **detecting obstacles** in an **outdoor** environment.  
+*Developed* in Kotlin and in Java with Google's ARCore Depth Lab API.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Navigation-Assistance-Platform-for-Blind-People)*     
 
 # BSc Computer Engineering Projects
 
