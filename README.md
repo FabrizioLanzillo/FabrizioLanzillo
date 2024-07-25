@@ -136,7 +136,7 @@ University Project for "Electronics and Communication Systems" course (2024).
 *Design* of a **digital circuit** for implementing an **image elaboration systems fo calculator**.   
 *Testbench Analysis* of the digital system behaviour using **Modelsim**.  
 *Synthesis and Implementation* of the circuit using **Vivado**.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)* 
+*[Project Repository](https://github.com/FabrizioLanzillo/Image-Elaboration-fo-Coefficient-Calculator)* 
 
 <!-- Navigation-Assistance-Platform-for-Blind-People (VIBA) -->
 ## Navigation-Assistance-Platform-for-Blind-People (VIBA)
