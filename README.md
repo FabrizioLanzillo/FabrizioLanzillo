@@ -15,6 +15,72 @@ The *web* part is implemented using **Java 11** with **Jakarta EE 9.1 framework*
 The *chat* is developed in **Erlang** and is deployed on a **distributed cluster** with a **NGINX** reverse proxy / load balancer.          
 *[Project Repository](https://github.com/FabrizioLanzillo/Distributed-University-Chatroom-Platform)*    
 
+<!-- Image-Elaboration-fo-Coefficient-Calculator -->   
+## Image-Elaboration-fo-Coefficient-Calculator
+<span align="left">
+    <img src="https://img.shields.io/badge/VHDL-%23D22128.svg?style=rounde" alt="image" width="60" height="30">
+    <img src="https://img.shields.io/badge/ModelSim-4479A1?style=round" alt="image" width="85" height="30">
+    <img src="https://img.shields.io/badge/Vivado-%e4e796.svg?style=round" alt="image" width="75" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="30" height="30">
+</span>
+
+University Project for "Electronics and Communication Systems" course (2024).  
+*Design* of a **digital circuit** for implementing an **image elaboration systems fo calculator**.   
+*Testbench Analysis* of the digital system behaviour using **Modelsim**.  
+*Synthesis and Implementation* of the circuit using **Vivado**.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Image-Elaboration-fo-Coefficient-Calculator)* 
+
+<!-- Cybersecurity-Project-of-Cloud-Storage -->
+## Cybersecurity-Project-of-Cloud-Storage
+<span align="left">
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="30" height="30">
+    <img src="https://www.vectorlogo.zone/logos/openssl/openssl-official.svg" alt="image" width="115" height="30">
+</span>
+
+University Project for "Foundations of Cybersecurity" course (2022).  
+*Design* of a **Secure Client-Server application** that resembles a **Cloud Storage**.  
+*Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*   
+
+<!-- Pipelined-Application-for-Secure-POS-Monitoring-System -->
+## Pipelined-Application-for-Secure-POS-Monitoring-System
+<span align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="30" height="30">
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=round" alt="image" width="95" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="image" width="30" height="30">
+</span>
+
+University Project for "Software System Engineering Project" course (2023).  
+*Development* of a **Pipelined Application** for **Secure POS Monitoring System** based on DataOps approach, to support productivity metrics.  
+*Developed* in **Python**.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Pipelined-Application-for-Secure-POS-Monitoring-System)*   
+
+<!-- Performance-Evaluation-of-Supermarket-Simulator -->   
+## Performance-Evaluation-of-Supermarket-Simulator
+<span align="left">
+    <img src="https://img.shields.io/badge/-OMNeT++-4d83a1?logoColor=white&style=round" alt="image" width="95" height="30">
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
+</span>
+
+University Project for "Performance Evaluation of Computer Systems and Networks" course (2022).  
+*Design* of a **discrete event simulator** that emulates the behavior of a supermarket (considered as a **queuing system**).   
+*Performance evaluation* of the system using different configurations and through different experiments.  
+*Developed* in **C++** with the **OMNet++** framework.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)*  
+
+<!-- Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C -->
+## Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C
+<span align="left">
+    <img src="https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=round" alt="image" width="95" height="30">
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
+</span>
+
+University Project for "Computer Architecture" course (2023).  
+*Development* and *Analysis* of the **Parallelization** of a *Brute Force Attack* on **AES-256** key.  
+*Developed* in **CUDA-C** and in **C++14**.  
+*[Project Repository](https://github.com/FabrizioLanzillo/Parallelized-AES-Brute-Force-Attack-with-Cuda)*
+
 <!-- Secure-Book-Selling-Website -->
 ## Secure-Book-Selling-Website
 <span align="left">
@@ -33,31 +99,6 @@ The website uses **SSL/TLS certificates** to ensure **secure communication** in 
 *Developed* using **PHP 8** and **Javascript** with **MySQL** database.   
 *Deployed* using **Docker Compose** with three containers: **Apache Server**, **MySQL**, and **phpMyAdmin**.         
 *[Project Repository](https://github.com/FabrizioLanzillo/Secure-Book-Selling-Website)*
-
-<!-- Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C -->
-## Parallelized-Brute-Force-Attack-on-AES-256-Key-using-Cuda-C
-<span align="left">
-    <img src="https://img.shields.io/badge/-CUDA%20C-76B900?logo=NVIDIA&logoColor=white&style=round" alt="image" width="95" height="30">
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
-</span>
-
-University Project for "Computer Architecture" course (2023).  
-*Development* and *Analysis* of the **Parallelization** of a *Brute Force Attack* on **AES-256** key.  
-*Developed* in **CUDA-C** and in **C++14**.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Parallelized-AES-Brute-Force-Attack-with-Cuda)*   
-
-<!-- Pipelined-Application-for-Secure-POS-Monitoring-System -->
-## Pipelined-Application-for-Secure-POS-Monitoring-System
-<span align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="30" height="30">
-    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=round" alt="image" width="95" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="image" width="30" height="30">
-</span>
-
-University Project for "Software System Engineering Project" course (2023).  
-*Development* of a **Pipelined Application** for **Secure POS Monitoring System** based on DataOps approach, to support productivity metrics.  
-*Developed* in **Python**.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Pipelined-Application-for-Secure-POS-Monitoring-System)*   
 
 <!-- ECG-Estimation-using-Different-Artificial-Intelligences -->
 ## ECG-Estimation-using-Different-Artificial-Intelligences
@@ -84,18 +125,7 @@ University project for "Cloud Computing" course (2023).
 *Deployed* on a cluster of virtual machines, one namenode and two datanodes.       
 *[Project Repository](https://github.com/FabrizioLanzillo/K-Means-Clustering-Algorithm-using-Hadoop-MapReduce)*    
 
-<!-- Cybersecurity-Project-of-Cloud-Storage -->
-## Cybersecurity-Project-of-Cloud-Storage
-<span align="left">
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="image" width="30" height="30">
-    <img src="https://www.vectorlogo.zone/logos/openssl/openssl-official.svg" alt="image" width="115" height="30">
-</span>
 
-University Project for "Foundations of Cybersecurity" course (2022).  
-*Design* of a **Secure Client-Server application** that resembles a **Cloud Storage**.  
-*Developed* in **C++14** with **OpenSSL 1.1.1 Library** for Linux systems.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Cybersecurity-Project-of-Cloud-Storage)*
 
 <!-- Gameflows-Videogame-Social-Network -->
 ## Gameflows-Videogame-Social-Network
@@ -109,34 +139,6 @@ University Project for the "Large-Scale and Multi-Structured Databases" course (
 *Design* of a **large-scale and multi-structured database** for a social networking application.  
 *Developed* in Java 11 and JavaFX with MongoDB and Neo4j databases.  
 *[Project Repository](https://github.com/FabrizioLanzillo/Gameflows-Videogame-Social-Network)*   
-
-<!-- Performance-Evaluation-of-Supermarket-Simulator -->   
-## Performance-Evaluation-of-Supermarket-Simulator
-<span align="left">
-    <img src="https://img.shields.io/badge/-OMNeT++-4d83a1?logoColor=white&style=round" alt="image" width="95" height="30">
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="image" width="26" height="30">
-</span>
-
-University Project for "Performance Evaluation of Computer Systems and Networks" course (2022).  
-*Design* of a **discrete event simulator** that emulates the behavior of a supermarket (considered as a **queuing system**).   
-*Performance evaluation* of the system using different configurations and through different experiments.  
-*Developed* in **C++** with the **OMNet++** framework.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Performance-Evaluation-of-Supermarket-Simulator)*  
-
-<!-- Image-Elaboration-fo-Coefficient-Calculator -->   
-## Image-Elaboration-fo-Coefficient-Calculator
-<span align="left">
-    <img src="https://img.shields.io/badge/VHDL-%23D22128.svg?style=rounde" alt="image" width="60" height="30">
-    <img src="https://img.shields.io/badge/ModelSim-4479A1?style=round" alt="image" width="85" height="30">
-    <img src="https://img.shields.io/badge/Vivado-%e4e796.svg?style=round" alt="image" width="75" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="image" width="30" height="30">
-</span>
-
-University Project for "Electronics and Communication Systems" course (2024).  
-*Design* of a **digital circuit** for implementing an **image elaboration systems fo calculator**.   
-*Testbench Analysis* of the digital system behaviour using **Modelsim**.  
-*Synthesis and Implementation* of the circuit using **Vivado**.  
-*[Project Repository](https://github.com/FabrizioLanzillo/Image-Elaboration-fo-Coefficient-Calculator)* 
 
 <!-- Navigation-Assistance-Platform-for-Blind-People (VIBA) -->
 ## Navigation-Assistance-Platform-for-Blind-People (VIBA)
